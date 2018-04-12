@@ -15,12 +15,13 @@ public class ENDES {
     
      
     public static void main(String[] args) {
-        
+        int edad = 20;
+                
         System.out.println("HOLA ESTE ES EL PROGRAMA DE EJEMPLO ");//NO BORRAR
         
         //ESCRIBE AQUI TU NOMBRE
         System.out.println("Luis Miguel Fernández Torres");
-        
+        System.out.println("Edad -> " + edad + " años");
         
         
     }
